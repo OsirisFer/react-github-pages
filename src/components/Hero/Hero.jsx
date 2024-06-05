@@ -1,13 +1,10 @@
 import React from "react";
 
 import styles from "./Hero.module.css";
-import { getImageUrl } from "../../utils";
 import OsirisImg from "./OsirisImg.png";
 
 export const Hero = () => {
 
-    const imageUrl = getImageUrl("Hero/heroImg.png");
-    console.log("Image URL: ", imageUrl);
   return (
     <section className={styles.container}>
         <div className={styles.content}>
