@@ -13,7 +13,7 @@ export const Hero = () => {
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, I'm Osiris</h1>
             <p className={styles.description}>
-            I'm a Junior Developer, passionate about programmings. 
+            I'm a Junior Developer, passionate about programming. 
             <br></br>Reach out if you'd like to learn more!
             </p>
             <a href="mailto:myemail@email.com" className={styles.contactBtn}>
