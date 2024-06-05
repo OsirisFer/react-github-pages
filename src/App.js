@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import "@fontsource/outfit";
+import "@fontsource/roboto";
 
 function App() {
   return (
