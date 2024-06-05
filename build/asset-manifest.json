@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/react-github-pages/build/static/css/main.2cd0acf1.css",
-    "main.js": "/react-github-pages/build/static/js/main.a20c798d.js",
+    "main.css": "/react-github-pages/build/static/css/main.569eaeed.css",
+    "main.js": "/react-github-pages/build/static/js/main.ab4f22e4.js",
     "static/js/453.219afaa4.chunk.js": "/react-github-pages/build/static/js/453.219afaa4.chunk.js",
+    "static/media/OsirisImg.png": "/react-github-pages/build/static/media/OsirisImg.d9298b635e14fbac9324.png",
     "static/media/outfit-latin-400-normal.woff": "/react-github-pages/build/static/media/outfit-latin-400-normal.741bd8369a31b33122b4.woff",
     "static/media/roboto-latin-400-normal.woff2": "/react-github-pages/build/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
     "static/media/roboto-cyrillic-ext-400-normal.woff2": "/react-github-pages/build/static/media/roboto-cyrillic-ext-400-normal.804378952da8a10faae2.woff2",
@@ -22,12 +23,12 @@
     "static/media/roboto-greek-ext-400-normal.woff2": "/react-github-pages/build/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
     "static/media/roboto-greek-ext-400-normal.woff": "/react-github-pages/build/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "index.html": "/react-github-pages/build/index.html",
-    "main.2cd0acf1.css.map": "/react-github-pages/build/static/css/main.2cd0acf1.css.map",
-    "main.a20c798d.js.map": "/react-github-pages/build/static/js/main.a20c798d.js.map",
+    "main.569eaeed.css.map": "/react-github-pages/build/static/css/main.569eaeed.css.map",
+    "main.ab4f22e4.js.map": "/react-github-pages/build/static/js/main.ab4f22e4.js.map",
     "453.219afaa4.chunk.js.map": "/react-github-pages/build/static/js/453.219afaa4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2cd0acf1.css",
-    "static/js/main.a20c798d.js"
+    "static/css/main.569eaeed.css",
+    "static/js/main.ab4f22e4.js"
   ]
 }
