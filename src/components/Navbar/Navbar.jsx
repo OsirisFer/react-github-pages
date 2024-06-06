@@ -1,14 +1,15 @@
 import React, { useState } from "react";
 
 import styles from "./Navbar.module.css";
-import { getImageUrl } from "../../utils";
+import closeIcon from "./NavbarImages/closeIcon.png";
+import menuIcon from "./NavbarImages/menuIcon.png";
 
 export const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false);
   
     return (
       <nav className={styles.navbar}>
-        <a className={styles.title} href="/">
+        <a className={styles.title} href="https://osirisfer.github.io/react-github-pages/build/">
           Portfolio
         </a>
         <div className={styles.menu}>
@@ -16,8 +17,8 @@ export const Navbar = () => {
             className={styles.menuBtn}
             src={
               menuOpen
-                ? getImageUrl("nav/closeIcon.png")
-                : getImageUrl("nav/menuIcon.png")
+                ? closeIcon
+                : menuIcon
             }
             alt="menu-button"
             onClick={() => setMenuOpen(!menuOpen)}
