@@ -9,7 +9,7 @@ export const Navbar = () => {
   
     return (
       <nav className={styles.navbar}>
-        <a className={styles.title} href="https://osirisfer.github.io/react-github-pages/build/">
+        <a className={styles.title} href="/build">
           Portfolio
         </a>
         <div className={styles.menu}>
