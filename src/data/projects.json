@@ -1,26 +1,23 @@
 [
   {
-    "title": "Project A",
+    "title": "Typescript Project",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Visual Graphic Component for 3D Warehouse Layout Designing.",
+    "skills": ["React", "Express", "Node", "C#", "SQL Lite"],
+    "demo": "https://www.youtube.com/watch?v=wlhe8fDhGCg"
   },
   {
-    "title": "Project B",
+    "title": ".NET Project",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Website for a pet shelter using .NET, Bootstrap, and MySQL.",
+    "skills": [".NET", "Bootstrap", "MYSQL", "C#"],
+    "demo": "https://www.youtube.com/watch?v=7BbhcNjZBCM"
   },
   {
-    "title": "Project C",
+    "title": "Vainilla Javascript Project",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Inspired Instagram using Vainilla JavaScript.",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "demo": "https://github.com/OsirisFer/Vainilla-JS-Inspired-Instagram"
   }
 ]

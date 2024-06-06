@@ -28,6 +28,7 @@
 .aboutImage {
   width: 16%;
   transition: transform 1s, filter 10s ease;
+  margin: 10%;
 }
 .aboutImage:hover {
   transform: scale(1.2);
