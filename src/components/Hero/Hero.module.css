@@ -52,15 +52,16 @@ background-clip: text;
 }
 
 .OsirisImg {
-  width: 500px; /* Ajuste el ancho relativo */
+  width: 445px; /* Ajuste el ancho relativo */
   height: auto; /* Mantiene la proporción de la imagen */
   z-index: 1;
   animation-name: floating;
-  animation-duration: 3s;
+  animation-duration: 2.5s;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
   border-radius: 80%;
   object-fit: cover;
+  margin-right: 8%;
 }
 
 @keyframes floating {

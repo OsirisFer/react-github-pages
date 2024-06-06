@@ -13,14 +13,13 @@
   letter-spacing: 1.75px;
   text-transform: uppercase;
 }
-
 .projects {
   margin-top: 37px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  align-items: center;
+  align-items: stretch; /* Ensure all items stretch to the same height */
   justify-content: center;
-  gap: 15px;
+  gap: 30px;
   width: 100%;
 }
