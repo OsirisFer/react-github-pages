@@ -26,13 +26,19 @@
 }
 
 .aboutImage {
-  width: 35%;
-  transition: transform 0.3s ease, filter 0.3s ease, opacity 0.3s ease;
-  
+  width: 16%;
+  transition: transform 1s, filter 10s ease;
 }
 .aboutImage:hover {
   transform: scale(1.2);
   filter: brightness(120%);
+  box-shadow: 0px 0px 50px 50px #ffffe6;
+  background: radial-gradient(circle, 
+                yellow 0%, 
+                #ffff99 25%, 
+                #ffffcc 50%, 
+                #ffffe6 70%,
+                white 90%);
 }
 
 .aboutItems {
