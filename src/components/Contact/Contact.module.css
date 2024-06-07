@@ -19,23 +19,9 @@
 }
 
 .text p {
-  font-size: 40px;
+  font-size: 27px;
   font-weight: 400;
   letter-spacing: 2px;
-}
-
-.links {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  list-style: none;
-  gap: 26px;
-}
-
-.link {
-  display: flex;
-  align-items: center;
-  gap: 25px;
 }
 
 .link a {
@@ -46,19 +32,3 @@
   letter-spacing: 1.5px;
 }
 
-@media screen and (max-width: 830px) {
-  .container {
-    flex-direction: column;
-    gap: 23px;
-  }
-
-  .text {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .links {
-    align-items: center;
-  }
-}

@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/react-github-pages/build/static/css/main.bdfd05c5.css",
-    "main.js": "/react-github-pages/build/static/js/main.a2db157c.js",
+    "main.css": "/react-github-pages/build/static/css/main.e8ed0056.css",
+    "main.js": "/react-github-pages/build/static/js/main.576a3c8a.js",
     "static/js/453.219afaa4.chunk.js": "/react-github-pages/build/static/js/453.219afaa4.chunk.js",
     "static/media/OsirisImg.png": "/react-github-pages/build/static/media/OsirisImg.d9298b635e14fbac9324.png",
+    "static/media/fa-solid-900.ttf": "/react-github-pages/build/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
     "static/media/aboutImage.png": "/react-github-pages/build/static/media/aboutImage.86bbd2b36334543d88a5.png",
+    "static/media/fa-brands-400.ttf": "/react-github-pages/build/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
     "static/media/tcs.png": "/react-github-pages/build/static/media/tcs.5b030c4c7b1ed28fed31.png",
+    "static/media/fa-solid-900.woff2": "/react-github-pages/build/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/fa-brands-400.woff2": "/react-github-pages/build/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
     "static/media/project.png": "/react-github-pages/build/static/media/project.6b80dc22339b227d4ce7.png",
     "static/media/c.png": "/react-github-pages/build/static/media/c.837a49116fe3c020f47d.png",
+    "static/media/fa-regular-400.ttf": "/react-github-pages/build/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
     "static/media/typescript.png": "/react-github-pages/build/static/media/typescript.1e3902edbe4c3f2970d8.png",
     "static/media/python.png": "/react-github-pages/build/static/media/python.2c702eaf7fca41846bb4.png",
+    "static/media/fa-regular-400.woff2": "/react-github-pages/build/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
     "static/media/outfit-latin-400-normal.woff": "/react-github-pages/build/static/media/outfit-latin-400-normal.741bd8369a31b33122b4.woff",
     "static/media/roboto-latin-400-normal.woff2": "/react-github-pages/build/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
     "static/media/roboto-cyrillic-ext-400-normal.woff2": "/react-github-pages/build/static/media/roboto-cyrillic-ext-400-normal.804378952da8a10faae2.woff2",
@@ -19,6 +25,7 @@
     "static/media/roboto-cyrillic-ext-400-normal.woff": "/react-github-pages/build/static/media/roboto-cyrillic-ext-400-normal.af4d91666ea345601bea.woff",
     "static/media/roboto-latin-ext-400-normal.woff2": "/react-github-pages/build/static/media/roboto-latin-ext-400-normal.861b791f9de857a6e7bc.woff2",
     "static/media/javascript.png": "/react-github-pages/build/static/media/javascript.e29a646f01754e095650.png",
+    "static/media/fa-v4compatibility.ttf": "/react-github-pages/build/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
     "static/media/roboto-latin-ext-400-normal.woff": "/react-github-pages/build/static/media/roboto-latin-ext-400-normal.e757c42df6aaa3e11b62.woff",
     "static/media/roboto-cyrillic-400-normal.woff2": "/react-github-pages/build/static/media/roboto-cyrillic-400-normal.71a33b6b50457b2c903a.woff2",
     "static/media/outfit-latin-ext-400-normal.woff": "/react-github-pages/build/static/media/outfit-latin-ext-400-normal.bcad4dc76d21abb653fc.woff",
@@ -27,16 +34,17 @@
     "static/media/roboto-greek-400-normal.woff": "/react-github-pages/build/static/media/roboto-greek-400-normal.dfdff8fa12eac629d29f.woff",
     "static/media/outfit-latin-ext-400-normal.woff2": "/react-github-pages/build/static/media/outfit-latin-ext-400-normal.d686e869b41efb6c1f03.woff2",
     "static/media/roboto-vietnamese-400-normal.woff2": "/react-github-pages/build/static/media/roboto-vietnamese-400-normal.3230f9b040f3c630e0c3.woff2",
+    "static/media/fa-v4compatibility.woff2": "/react-github-pages/build/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "static/media/roboto-vietnamese-400-normal.woff": "/react-github-pages/build/static/media/roboto-vietnamese-400-normal.e0e8ba725ebd107367a8.woff",
     "static/media/roboto-greek-ext-400-normal.woff2": "/react-github-pages/build/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
     "static/media/roboto-greek-ext-400-normal.woff": "/react-github-pages/build/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "index.html": "/react-github-pages/build/index.html",
-    "main.bdfd05c5.css.map": "/react-github-pages/build/static/css/main.bdfd05c5.css.map",
-    "main.a2db157c.js.map": "/react-github-pages/build/static/js/main.a2db157c.js.map",
+    "main.e8ed0056.css.map": "/react-github-pages/build/static/css/main.e8ed0056.css.map",
+    "main.576a3c8a.js.map": "/react-github-pages/build/static/js/main.576a3c8a.js.map",
     "453.219afaa4.chunk.js.map": "/react-github-pages/build/static/js/453.219afaa4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdfd05c5.css",
-    "static/js/main.a2db157c.js"
+    "static/css/main.e8ed0056.css",
+    "static/js/main.576a3c8a.js"
   ]
 }
