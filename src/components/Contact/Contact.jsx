@@ -4,6 +4,8 @@ import styles from "./Contact.module.css";
 import emailIcon from "./ContactImages/emailIcon.png";
 import linkedinIcon from "./ContactImages/linkedinIcon.png";
 import githubIcon from "./ContactImages/githubIcon.png";
+import "@fortawesome/fontawesome-free/css/all.css";
+import "./SocialLinks.css";
 
 export const Contact = () => {
   return (
