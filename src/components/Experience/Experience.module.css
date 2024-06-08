@@ -44,6 +44,7 @@
   justify-content: center;
   width: 120px;
   height: 120px;
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 3px;
 }
 
 .skillImageContainer img {
@@ -130,5 +131,5 @@
 }
 
 .imagenesMove:hover {
-    transform: scale(1.1);
+    transform: scale(1.15);
 }
