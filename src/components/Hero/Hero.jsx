@@ -56,7 +56,7 @@ export const Hero = () => {
   </h1>
   <div className={styles.content}>
             <p className={styles.description}>
-            I'm a Junior Developer, passionate about programming. 
+            I'm a Junior Developer with a passion for programming. 
             <br></br>Reach out if you'd like to learn more!
             </p>
             <a href="mailto:myemail@email.com" className={styles.contactBtn}>
