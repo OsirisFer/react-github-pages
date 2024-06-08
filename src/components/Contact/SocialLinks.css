@@ -61,7 +61,7 @@
 }
 
 .socialLinks li:nth-child(3) a:before {
-  background: #dd4b39;
+  background: rgba(0, 0, 0, 0.952);
 }
 
 .socialLinks li:nth-child(4) a:before {

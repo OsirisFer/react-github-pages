@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-github-pages/build/static/css/main.e8ed0056.css",
-    "main.js": "/react-github-pages/build/static/js/main.576a3c8a.js",
-    "static/js/453.219afaa4.chunk.js": "/react-github-pages/build/static/js/453.219afaa4.chunk.js",
+    "main.css": "/react-github-pages/build/static/css/main.76bc9b4c.css",
+    "main.js": "/react-github-pages/build/static/js/main.1b0073ba.js",
+    "static/js/453.dc219423.chunk.js": "/react-github-pages/build/static/js/453.dc219423.chunk.js",
     "static/media/OsirisImg.png": "/react-github-pages/build/static/media/OsirisImg.d9298b635e14fbac9324.png",
     "static/media/fa-solid-900.ttf": "/react-github-pages/build/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
     "static/media/aboutImage.png": "/react-github-pages/build/static/media/aboutImage.86bbd2b36334543d88a5.png",
@@ -39,12 +39,12 @@
     "static/media/roboto-greek-ext-400-normal.woff2": "/react-github-pages/build/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
     "static/media/roboto-greek-ext-400-normal.woff": "/react-github-pages/build/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "index.html": "/react-github-pages/build/index.html",
-    "main.e8ed0056.css.map": "/react-github-pages/build/static/css/main.e8ed0056.css.map",
-    "main.576a3c8a.js.map": "/react-github-pages/build/static/js/main.576a3c8a.js.map",
-    "453.219afaa4.chunk.js.map": "/react-github-pages/build/static/js/453.219afaa4.chunk.js.map"
+    "main.76bc9b4c.css.map": "/react-github-pages/build/static/css/main.76bc9b4c.css.map",
+    "main.1b0073ba.js.map": "/react-github-pages/build/static/js/main.1b0073ba.js.map",
+    "453.dc219423.chunk.js.map": "/react-github-pages/build/static/js/453.dc219423.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8ed0056.css",
-    "static/js/main.576a3c8a.js"
+    "static/css/main.76bc9b4c.css",
+    "static/js/main.1b0073ba.js"
   ]
 }
