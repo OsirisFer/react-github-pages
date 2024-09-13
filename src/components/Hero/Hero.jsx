@@ -34,7 +34,7 @@ export const Hero = () => {
     <section className={styles.container2}>
         <div className="container">
   <h1>
-    <p className="notmagic-text">Hi, my name is </p><br />
+    <p className="notmagic-text">Hello Mimiquate, my name is </p><br />
     <span className="magic">
       <span className="magic-star">
         <svg viewBox="0 0 512 512">
@@ -57,7 +57,7 @@ export const Hero = () => {
   <div className={styles.content}>
             <p className={styles.description}>
             I'm a Junior Developer with a passion for programming. 
-            <br></br>Reach out if you'd like to learn more!
+            <br></br>Thank you for this opportunity
             </p>
             <a href="mailto:myemail@email.com" className={styles.contactBtn}>
                 Contact Me
