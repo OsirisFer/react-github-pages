@@ -48,7 +48,53 @@ background-clip: text;
   font-weight: 600;
   padding: 17px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+  position: relative;
+  overflow: hidden;
+  transition: all 0.4s ease;
+  z-index: 1;
 }
+
+/* Efecto de brillo animado en el borde */
+.contactBtn::before {
+  content: "";
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.4), transparent 70%);
+  transition: all 0.4s ease;
+  border-radius: 50%;
+  z-index: -1;
+}
+
+.contactBtn:hover::before {
+  top: 0;
+  left: 0;
+  width: 300%;
+  height: 300%;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.7), transparent 80%);
+}
+
+/* Gradiente animado en hover */
+.contactBtn:hover {
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  color: white;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  transform: scale(1.05);
+}
+
+/* Animación de texto al hacer hover */
+.contactBtn span {
+  position: relative;
+  z-index: 2;
+  transition: transform 0.3s ease;
+}
+
+.contactBtn:hover span {
+  transform: translateY(-5px);
+}
+
 
 .OsirisImg {
   width: 445px; /* Ajuste el ancho relativo */

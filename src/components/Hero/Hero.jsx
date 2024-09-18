@@ -59,7 +59,7 @@ export const Hero = () => {
             I'm a Junior Developer with a passion for programming. 
             <br></br>Thank you for this opportunity
             </p>
-            <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+            <a href="mailto:osirisfernandez1999@email.com" className={styles.contactBtn}>
                 Contact Me
             </a>
         </div>
