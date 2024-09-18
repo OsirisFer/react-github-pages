@@ -34,7 +34,7 @@ export const Hero = () => {
     <section className={styles.container2}>
         <div className="container">
   <h1>
-    <p className="notmagic-text">Hello and Welcome </p><br />
+    <p className="notmagic-text">Hello Mimiquate, my name is </p><br />
     <span className="magic">
       <span className="magic-star">
         <svg viewBox="0 0 512 512">
