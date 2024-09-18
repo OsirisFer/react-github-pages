@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This project is a small test page created usin
 
 ## Live Demo
 
-You can view the live demo of my portfolio here: (https://osirisfer.github.io/react-github-pages/build/)](https://osirisfer.github.io/react-github-pages/build)
+You can view the live demo of my portfolio here: https://osirisfer.github.io/react-github-pages/build/
 
 ## Table of Contents
 
