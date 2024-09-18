@@ -4,11 +4,13 @@
   display: flex;
   flex-direction: column;
   border-radius: 10px;
+  justify-content: space-between;
   background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 345px;
   box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+  
 }
 
 .image {
@@ -46,7 +48,7 @@
 
 .links {
   width: 100%;
-  margin-top: 26px;
+  margin-top: auto;
   display: flex;
   justify-content: space-around;
 }
