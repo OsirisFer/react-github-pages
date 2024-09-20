@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-github-pages/build/static/css/main.8cdf32bb.css",
-    "main.js": "/react-github-pages/build/static/js/main.239cc2f6.js",
+    "main.js": "/react-github-pages/build/static/js/main.dc8661f9.js",
     "static/js/453.dc219423.chunk.js": "/react-github-pages/build/static/js/453.dc219423.chunk.js",
     "static/media/OsirisImg.png": "/react-github-pages/build/static/media/OsirisImg.d9298b635e14fbac9324.png",
     "static/media/fa-solid-900.ttf": "/react-github-pages/build/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
@@ -40,11 +40,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/react-github-pages/build/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "index.html": "/react-github-pages/build/index.html",
     "main.8cdf32bb.css.map": "/react-github-pages/build/static/css/main.8cdf32bb.css.map",
-    "main.239cc2f6.js.map": "/react-github-pages/build/static/js/main.239cc2f6.js.map",
+    "main.dc8661f9.js.map": "/react-github-pages/build/static/js/main.dc8661f9.js.map",
     "453.dc219423.chunk.js.map": "/react-github-pages/build/static/js/453.dc219423.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8cdf32bb.css",
-    "static/js/main.239cc2f6.js"
+    "static/js/main.dc8661f9.js"
   ]
 }
